@@ -53,4 +53,4 @@ Note that you'll need to:
 
 ## Author
 
-- Steven Tey ([@steventey](https://twitter.com/steventey))
+- Steven Tey ([@steventey](https://twitter.com/sunyinmadu))
